@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.78566d7f.chunk.css",
+    "main.js": "/static/js/main.c3f2ab84.chunk.js",
+    "main.js.map": "/static/js/main.c3f2ab84.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cb4d26df.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cb4d26df.js.map",
+    "static/js/2.04347923.chunk.js": "/static/js/2.04347923.chunk.js",
+    "static/js/2.04347923.chunk.js.map": "/static/js/2.04347923.chunk.js.map",
+    "static/js/3.4ee4d68a.chunk.js": "/static/js/3.4ee4d68a.chunk.js",
+    "static/js/3.4ee4d68a.chunk.js.map": "/static/js/3.4ee4d68a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.78566d7f.chunk.css.map": "/static/css/main.78566d7f.chunk.css.map",
+    "static/js/2.04347923.chunk.js.LICENSE.txt": "/static/js/2.04347923.chunk.js.LICENSE.txt",
+    "static/media/5.bed9487f.jpg": "/static/media/5.bed9487f.jpg",
+    "static/media/cryptopunk-logo.8bee49d5.png": "/static/media/cryptopunk-logo.8bee49d5.png",
+    "static/media/weth.4101f1da.png": "/static/media/weth.4101f1da.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb4d26df.js",
+    "static/js/2.04347923.chunk.js",
+    "static/css/main.78566d7f.chunk.css",
+    "static/js/main.c3f2ab84.chunk.js"
+  ]
+}
